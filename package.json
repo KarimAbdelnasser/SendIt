@@ -1,0 +1,25 @@
+{
+    "name": "sendit",
+    "version": "1.0.0",
+    "description": "Realtime Chat",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "engines": {
+        "node": "16.7.0"
+    },
+    "author": "Zika",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "moment": "^2.29.1",
+        "socket.io": "^4.3.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
