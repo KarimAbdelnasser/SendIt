@@ -1,4 +1,4 @@
-# E-commerce App
+# Send It App
 
 This is a backend application built with Node.js that enables real-time chat functionality. It allows users to communicate with each other instantly, providing a seamless chatting experience.
 
